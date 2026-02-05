@@ -1,4 +1,4 @@
-# 🚗 Systemheda – AutoEvolution AI
+# 🚗 AutoEvolution AI
 ### Research Framework for Evolutionary Automotive Intelligence Models
 
 Systemheda‑AutoEvolution‑AI is a **research‑driven conceptual framework** for studying evolutionary intelligence models in automotive systems.  
